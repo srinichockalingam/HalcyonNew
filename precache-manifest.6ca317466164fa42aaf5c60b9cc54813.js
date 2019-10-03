@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e56ab6a256be062d30b050cb71063a09",
+    "revision": "cc1bb0bb10bda343934d97eac30475d2",
     "url": "/HalcyonNew/index.html"
   },
   {
-    "revision": "bc86238d0b942ab9497b",
+    "revision": "bd7151654bfbdaa365e3",
     "url": "/HalcyonNew/static/css/main.06bccba5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HalcyonNew/static/js/2.7b5f9405.chunk.js"
   },
   {
-    "revision": "bc86238d0b942ab9497b",
-    "url": "/HalcyonNew/static/js/main.fe28a4bf.chunk.js"
+    "revision": "bd7151654bfbdaa365e3",
+    "url": "/HalcyonNew/static/js/main.ecf7da07.chunk.js"
   },
   {
     "revision": "0c2d1ea4f917709b5a39",
