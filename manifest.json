@@ -1,6 +1,6 @@
 {
-  "short_name": "Halcyon",
-  "name": "Think Rubber, Think Halcyon",
+  "short_name": "Demo",
+  "name": "Demo Application",
   "icons": [
     {
       "src": "favicon.ico",

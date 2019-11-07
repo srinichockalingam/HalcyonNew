@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HalcyonNew/static/css/main.06bccba5.chunk.css",
-    "main.js": "/HalcyonNew/static/js/main.c201034e.chunk.js",
-    "main.js.map": "/HalcyonNew/static/js/main.c201034e.chunk.js.map",
+    "main.css": "/HalcyonNew/static/css/main.1da48b72.chunk.css",
+    "main.js": "/HalcyonNew/static/js/main.38af1fe1.chunk.js",
+    "main.js.map": "/HalcyonNew/static/js/main.38af1fe1.chunk.js.map",
     "runtime-main.js": "/HalcyonNew/static/js/runtime-main.bc396bc1.js",
     "runtime-main.js.map": "/HalcyonNew/static/js/runtime-main.bc396bc1.js.map",
-    "static/js/2.098246f3.chunk.js": "/HalcyonNew/static/js/2.098246f3.chunk.js",
-    "static/js/2.098246f3.chunk.js.map": "/HalcyonNew/static/js/2.098246f3.chunk.js.map",
+    "static/js/2.653b66d6.chunk.js": "/HalcyonNew/static/js/2.653b66d6.chunk.js",
+    "static/js/2.653b66d6.chunk.js.map": "/HalcyonNew/static/js/2.653b66d6.chunk.js.map",
     "index.html": "/HalcyonNew/index.html",
-    "precache-manifest.374c198fffd1846953d89ab58a513c62.js": "/HalcyonNew/precache-manifest.374c198fffd1846953d89ab58a513c62.js",
+    "precache-manifest.24005c1d5406fd60238c57761a3d5b2a.js": "/HalcyonNew/precache-manifest.24005c1d5406fd60238c57761a3d5b2a.js",
     "service-worker.js": "/HalcyonNew/service-worker.js",
-    "static/css/main.06bccba5.chunk.css.map": "/HalcyonNew/static/css/main.06bccba5.chunk.css.map",
+    "static/css/main.1da48b72.chunk.css.map": "/HalcyonNew/static/css/main.1da48b72.chunk.css.map",
     "static/media/Halcyon.jpg": "/HalcyonNew/static/media/Halcyon.10080290.jpg",
     "static/media/mdsp-css.min.css": "/HalcyonNew/static/media/sisan38.f7996b4d.ttf"
   }
